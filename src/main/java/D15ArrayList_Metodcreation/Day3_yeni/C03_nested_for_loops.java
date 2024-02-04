@@ -1,4 +1,4 @@
-package Day3_yeni;
+package D15ArrayList_Metodcreation.Day3_yeni;
 
 public class C03_nested_for_loops {
     public static void main(String[] args) {
