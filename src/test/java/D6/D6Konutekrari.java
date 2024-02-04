@@ -8,6 +8,7 @@ public class D6Konutekrari {
         System.out.println("ayse yazdi");
         String Dayname;
         System.out.println("dayname giriniz");
+        System.out.println("bu omer branchinda");
         Dayname= scan.nextLine();
 
         if (Dayname.equalsIgnoreCase("sunday")) {
