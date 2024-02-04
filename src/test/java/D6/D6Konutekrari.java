@@ -5,10 +5,9 @@ import java.util.Scanner;
 public class D6Konutekrari {
     public static void main(String[] args) {
         Scanner scan= new Scanner(System.in);
-        System.out.println("ayse yazdi");
+        System.out.println("ayse branch indan  yazdi");
         String Dayname;
         System.out.println("dayname giriniz");
-        System.out.println("bu omer branchinda");
         Dayname= scan.nextLine();
 
         if (Dayname.equalsIgnoreCase("sunday")) {
