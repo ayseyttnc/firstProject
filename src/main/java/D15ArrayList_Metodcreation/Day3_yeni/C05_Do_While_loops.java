@@ -1,4 +1,4 @@
-package Day3_yeni;
+package D15ArrayList_Metodcreation.Day3_yeni;
 
 import java.util.Scanner;
 
