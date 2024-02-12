@@ -9,6 +9,7 @@ public class Test_tekrari {
             for (int i = 1; i <= input; i++) {
                 System.out.print(i*j);
             }
+
             System.out.println();
         }
 
