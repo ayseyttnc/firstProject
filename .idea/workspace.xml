@@ -4,147 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8af5e2de-3121-4ce5-906b-082fedea3380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8af5e2de-3121-4ce5-906b-082fedea3380" name="Changes" comment="Merge remote-tracking branch 'origin/ayse' into ayse">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D10_loops/For_loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D10_loops/For_loops02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D10_loops/For_loops03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/Do_While_loops_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/Number_Guessing_game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/While_Loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/While_Loops02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/While_loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D12_loop_arays/do_While_loops_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D13_Arrays/Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D13_Arrays/Arrays_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D13_Arrays/Arrays_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D13_Arrays/Arrays_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/Arrays_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/Arrays_list01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/M_D01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/M_D02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/M_D_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Arraylist02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Arraylist03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Arraylist05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Arrays_list01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/arrayList04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D6_if_switch_termary/IfStatement01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D6_if_switch_termary/IfStatement02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D6_if_switch_termary/Switch01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D8_String_manipulations/String_manipulastion02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D8_String_manipulations/String_manipulastion03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D8_String_manipulations/String_manipulastion04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D8_String_manipulations/String_manipulastions01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2_practice_dersler/C01_ifelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2_practice_dersler/C02_nestedif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2_practice_dersler/C03_turnary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2_practice_dersler/C04_nested_turnary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day2_practice_dersler/C05_switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3_yeni/C01_For_Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3_yeni/C02_for_loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3_yeni/C03_nested_for_loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3_yeni/C04_while_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day3_yeni/C05_Do_While_loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d11_Loops/For_loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d11_Loops/For_loops03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d11_Loops/While_Loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d11_Loops/loop4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d7_switch_turnary_string/String_manipulastions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d7_switch_turnary_string/Turnary01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d7_switch_turnary_string/switch_turnary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d7_switch_turnary_string/turnary02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d7_switch_turnary_string/turnary03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d9String_loops/for_loops01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d9String_loops/newString_manipulation01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d9String_loops/newString_manipulation02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d9String_loops/newString_manipulation03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d9String_loops/newString_manipulation04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/C04Concatination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Co1_Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Co2_Ortalamahesaplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Co3_print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Co5_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Co6_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Test_tekrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/tekrar3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/tekrar_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/tekrar_o7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CiftSayiTekSyi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CountinueDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D10_Konu_tekrar/Practice_ders_ifelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D11_Konu_tekrari_Loops/Loops01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D11_Konu_tekrari_Loops/Loops_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D11_Konu_tekrari_new/Genel_Konu_tekrari02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D11_Konu_tekrari_new/Genel_konu_tekrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D11_Konu_tekrari_new/Loop_tekrar01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D12_Konu_Tekrari/Do_while_konu_tekrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D12_Konu_Tekrari/Whilw_Loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D12_Konu_Tekrari/while_loop02_tekrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D13_tekrar/Arrays_Konu_Tekrari1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D13_tekrar/Arrays_omer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D6/D6Konutekrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D6_if_switch_termary/Switch01Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D7_KonuTekrari/D7_switch_tunary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D7_KonuTekrari/H_ici_H_sonu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D7_KonuTekrari/Switch_turnary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D7_KonuTekrari/Switch_turnary2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D8KOnu_Tekrari/Omer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D8KOnu_Tekrari/String_Manipulastion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D8KOnu_Tekrari/String_Manipulastion07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D8KOnu_Tekrari/String_manipulastion6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/D9_Konu_Tekrari/New_String_Manipulation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DersAnlatimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DersAnlatimi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DersAnlatimi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DersAnlatimi6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EtkinlikProgrami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ForForDongusu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ForOrnek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ForOrnek2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Gunler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IfCalismasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KonsoldanVeriAlma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KullaniciAdiGirisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NotOrtalamasiAlma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Operatorler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ortalama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SayiSiniflandirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SwitchCalis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SwitchCalismasi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TeksayiCiftsayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UcakBiletiHesaplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WhileCalismasiYeni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WhileFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WhileOrnek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WhileOrneklerBreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Yas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_3_tekrar/tekrar_01Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_3_tekrar/tekrar_o7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/D5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/DersAnlatma5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/IfStatementD503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/IfStatementd502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/IfStatementd505.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ders5/ifstatementd504.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/karsilastirmaOperatorleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/Arraylist01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/Arraylist02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/MethodOverloading01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/Methodcreationclass02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/PassByValuePassByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D16_ders/methodcreationclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_04_practise/Array_Eleleman_Ekleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_04_practise/Array_Ortak_isimler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_04_practise/Arrays_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_04_practise/En_Uzun_Kelime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day_04_practise/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d17passbyvalue_constructors_datetime/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d17passbyvalue_constructors_datetime/CarRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d17passbyvalue_constructors_datetime/DateTime01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d17passbyvalue_constructors_datetime/PassByValuePassByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/BaskaPackgageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Date_Time_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Date_Time_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Date_Time_o2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Sb01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Sb02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d19stringbuilder_buffer_accessmodifier_static/Sb01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d19stringbuilder_buffer_accessmodifier_static/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d19stringbuilder_buffer_accessmodifier_static/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d19stringbuilder_buffer_accessmodifier_static/Student02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d19stringbuilder_buffer_accessmodifier_static/Student02Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d19stringbuilder_buffer_accessmodifier_static/Student_runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Animal_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Honda_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/InstanceBlock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/InstanceBlock2_runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/InstanceBlock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/InstanceBlock3_runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d20instanceblock_oop/nstanceBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/CarRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Date_Time_Tekrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/DersTekrari_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Home_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Loops_Odev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/New_Tekrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekrar_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Tekraro8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/omerCalisma/DenemeRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/omerCalisma/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/omerCalisma/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/omerCalisma/Methot1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/omerCalisma/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/M_D02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D14_Array_Arraylist/M_D02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day3_yeni/C01_For_Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Day3_yeni/C01_For_Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day3_yeni/C02_for_loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Day3_yeni/C02_for_loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day3_yeni/C04_while_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Day3_yeni/C04_while_loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day3_yeni/C05_Do_While_loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D15ArrayList_Metodcreation/Day3_yeni/C05_Do_While_loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Test_tekrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day_3_tekrar/Test_tekrari.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,13 +87,36 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="ayseyttnc" />
+        <option name="repository" value="firstProject" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/D16_ders/Methodcreationclass02.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -174,43 +129,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/savsa/Desktop/Utility-1.0.1.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowDB Browser.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/savsa/IdeaProjects/ayse&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="omerCalisma" />
       <recent name="day_3_tekrar" />
       <recent name="D6_if_switch_termary" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="d17passbyvalue_constructors_datetime" />
+      <recent name="D16_ders" />
       <recent name="D15ArrayList_Metodcreation" />
       <recent name="D14_Array_Arraylist" />
       <recent name="D13_Arrays" />
-      <recent name="D12_loop_arays" />
-      <recent name="d11_Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tekrar_o7Test">
-    <configuration name="Arrays_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D13_Arrays.Arrays_02" />
+  <component name="RunManager" selected="Application.Loops_Odev">
+    <configuration name="Animal_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d20instanceblock_oop.Animal_Runner" />
       <module name="ayse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D13_Arrays.*" />
+          <option name="PATTERN" value="d20instanceblock_oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D14_Array_Arraylist.Arrays_04" />
+    <configuration name="Honda_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d20instanceblock_oop.Honda_Runner" />
       <module name="ayse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D14_Array_Arraylist.*" />
+          <option name="PATTERN" value="d20instanceblock_oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tekrar_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_3_tekrar.Tekrar_06" />
+    <configuration name="InstanceBlock2_runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d20instanceblock_oop.InstanceBlock2_runner" />
       <module name="ayse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_3_tekrar.*" />
+          <option name="PATTERN" value="d20instanceblock_oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tekrar_o7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_3_tekrar.tekrar_o7" />
+    <configuration name="InstanceBlock3_runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d20instanceblock_oop.InstanceBlock3_runner" />
       <module name="ayse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_3_tekrar.*" />
+          <option name="PATTERN" value="d20instanceblock_oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tekrar_o7Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_3_tekrar.tekrar_o7Test" />
+    <configuration name="Loops_Odev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_3_tekrar.Loops_Odev" />
       <module name="ayse" />
       <extension name="coverage">
         <pattern>
@@ -272,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tekrar_o7Test" />
-        <item itemvalue="Application.tekrar_o7" />
-        <item itemvalue="Application.Arrays_04" />
-        <item itemvalue="Application.Tekrar_06" />
-        <item itemvalue="Application.Arrays_02" />
+        <item itemvalue="Application.Loops_Odev" />
+        <item itemvalue="Application.Honda_Runner" />
+        <item itemvalue="Application.Animal_Runner" />
+        <item itemvalue="Application.InstanceBlock3_runner" />
+        <item itemvalue="Application.InstanceBlock2_runner" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +246,35 @@
       <option name="presentableId" value="Default" />
       <updated>1704106743449</updated>
     </task>
+    <task id="LOCAL-00001" summary="ayse">
+      <created>1707081926777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707081926777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="8. satirda degisiklik yaptim">
+      <created>1707082829017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707082829017</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create omermaster.txt">
+      <created>1707226086154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707226086154</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/ayse' into ayse">
+      <created>1707226137040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707226137040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,7 +282,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ayse" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -306,6 +304,11 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="ayse" />
+    <MESSAGE value="8. satirda degisiklik yaptim" />
+    <MESSAGE value="Create omermaster.txt" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/ayse' into ayse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/ayse' into ayse" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -336,9 +339,24 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Day3_yeni/C02_for_loops.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/src/main/java/d17passbyvalue_constructors_datetime/DateTime01.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Date_Time_03.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/d18datetime_stringbuilder/Sb01.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/d20instanceblock_oop/nstanceBlock1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/EtkinlikProgrami.java</url>

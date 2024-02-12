@@ -11,5 +11,24 @@ public class Test_tekrari {
             }
             System.out.println();
         }
+
     }
-}
+    public <lnt> void printName(){
+        System.out.println("protected is called");
+
+
+        int [] number=new int[5];
+        number[1]=3;
+        int value=number[2];
+//        lnt lenght=number.length;
+        for (int i = 0; i < number.length; i++) {
+//            if (number[i]== searchValue)
+//            System.out.println(number[i]);
+
+            int[] copy=new int[number.length];
+//            System.out.println(number,0,copy,number.length);
+            }
+        }
+
+    }
+

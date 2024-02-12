@@ -33,4 +33,5 @@ public class M_D02 {
         }
         System.out.println(Arrays.toString(newarr));
     }
+
 }
