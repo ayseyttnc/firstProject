@@ -20,8 +20,21 @@ public class MonkeyTrouble {
 
     
     
-//    public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
-//
-//    }
+    public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+
+        boolean flag;
+
+
+        if ((aSmile && bSmile)|| (!aSmile&&!bSmile)){
+            flag=true;
+        }else{
+            flag=false;
+        }
+
+
+
+        return flag;
+
+    }
 
 }

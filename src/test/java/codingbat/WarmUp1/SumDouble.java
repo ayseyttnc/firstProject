@@ -11,8 +11,14 @@ public class SumDouble {
      sumDouble(2, 2) → 8
      */
 
-//    public int sumDouble(int a, int b) {
-//
-//    }
+    public int sumDouble(int a, int b) {
+        if (a==b){
+            return 2*(a+b);
+        }else {
+            return a+b;
+        }
+
+
+    }
 
 }

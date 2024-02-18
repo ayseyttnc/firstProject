@@ -16,9 +16,16 @@ public class SleepIn {
          sleepIn(false, true) → true
          */
     }
-//    public boolean sleepIn(boolean weekday, boolean vacation) {
-//        return ;
-//
-//    }
+    public boolean sleepIn(boolean weekday, boolean vacation) {
+        boolean flag =false;
+
+        if (!weekday || vacation){
+            flag =true;
+        }
+
+
+        return flag;
+
+    }
 
 }
