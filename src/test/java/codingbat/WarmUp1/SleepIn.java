@@ -1,0 +1,31 @@
+package codingbat.WarmUp1;
+
+import org.junit.jupiter.api.Test;
+
+public class SleepIn {
+    @Test
+    void test1() {
+        /**
+         *
+         The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation.
+         We sleep in if it is not a weekday or we're on vacation. Return true if we sleep in.
+
+
+         sleepIn(false, false) → true
+         sleepIn(true, false) → false
+         sleepIn(false, true) → true
+         */
+    }
+    public boolean sleepIn(boolean weekday, boolean vacation) {
+        boolean flag =false;
+
+        if (!weekday || vacation){
+            flag =true;
+        }
+
+
+        return flag;
+
+    }
+
+}

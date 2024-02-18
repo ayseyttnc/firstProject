@@ -1,6 +1,5 @@
 package d7_switch_turnary_string;
 
-import com.KesifPlus.ui.Utility;
 import org.testng.annotations.Test;
 
 import javax.swing.text.Utilities;
@@ -30,7 +29,6 @@ public class Turnary01 {
 // int b=3;
 // b=++a;
         System.out.println(""+(a  + b));
-        Utility.printKesif();
     }
 
 }
