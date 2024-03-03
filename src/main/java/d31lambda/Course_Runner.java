@@ -1,11 +1,12 @@
 package d31lambda;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class Course_Runner {
     public static void main(String[] args) {
-        //course class in paramtreli constructer ini kullanarak 4 tane oble olusturalim
+        //course class in paramtreli constructer ini kullanarak 4 tane obje olusturalim
 
         Course courseTurkishDay = new Course("summer", "turkish day", 97, 128);
         Course courseTurkishNight = new Course("winter", "turkish night", 98, 154);
@@ -63,8 +64,20 @@ boolean result4=courseLIst.stream().anyMatch(t -> t.getSeason().contains("summer
 
         System.out.println(result6);
 
-    }
     //7)Average score’u en yuksek olan kursun ismini console yazdiran kodu yaziniz.
+        System.out.println("********************************");
+
+        courseLIst.stream()
+                .sorted(Comparator.comparingInt(Course::getAverageScore).reversed())
+                .limit(1)
+                .forEach(t-> System.out.println(t.getCourseName()));
+
+
+
+
+
+
+    }
     //7)Average score’u en yuksek olan kursun ismini console yazdiran kodu yaziniz.
 
     //a) sorted, Stream içerisindeki elemanları doğal sıralamasına göre sıralar.(kucukten buyuge)
@@ -73,3 +86,13 @@ boolean result4=courseLIst.stream().anyMatch(t -> t.getSeason().contains("summer
 //c) reversed, Bir Comparator’ın sıralama sırasını tersine çevirir.
 //d) findFirst, Stream’deki ilk elemanı döndüren bir Optional döner.
 }
+
+
+
+
+
+
+
+
+
+
