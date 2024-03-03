@@ -13,6 +13,7 @@ public class Tkrar8 {
         // minumum1(nums);
       //  minumum2(nums);
         enKucukCift(nums);
+        System.out.println("ayse branchi");
     }//main disi
 
     public static void maksimum1(List<Integer> nums) {
