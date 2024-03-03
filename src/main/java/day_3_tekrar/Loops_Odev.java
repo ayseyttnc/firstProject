@@ -11,7 +11,7 @@ public class Loops_Odev {
         System.out.println("lutfen 100 den kucuk bir tamsayi giriniz");
         tamSayi = input.nextInt();
 
-        if (tamSayi < 100) {
+        if (tamSayi>1 && tamSayi < 100) {
             for (int i = 1; i <= tamSayi; i++) {
                 if (i % 5 == 0 && i % 3 == 0) {
                     System.out.println("java guzeldir");
@@ -28,4 +28,5 @@ public class Loops_Odev {
         }
 
     }
+
 }

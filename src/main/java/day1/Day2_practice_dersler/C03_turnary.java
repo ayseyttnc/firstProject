@@ -1,4 +1,4 @@
-package Day2_practice_dersler;
+package day1.Day2_practice_dersler;
 
 import java.util.Scanner;
 
