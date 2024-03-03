@@ -10,6 +10,7 @@ public class Practice_ders_ifelse {
 
         System.out.println("ikinci sayiyi yazdiriniz");
         int sayi2 = scan.nextInt();
+            System.out.println(sayi1 * sayi2);
 
         if (sayi1 > 0 && sayi2 > 0) {
             System.out.println(sayi1 + sayi2);
