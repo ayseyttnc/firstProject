@@ -41,12 +41,14 @@ emekten tasarruf sağlayabiliriz.
 4) Class'lari kuculturuz.
 5) Daha az geliştirme ve bakım maliyetine yol açar.
 */
-    public void eat(){
-        System.out.println("animal's eat");}
-        public void drink(){
-            System.out.println("sadece hayvanlar icer");
-        }
+    public void eat() {
+        System.out.println("animal's eat");
     }
+
+    public void drink() {
+        System.out.println("sadece hayvanlar icer");
+    }
+}
 
 
 
